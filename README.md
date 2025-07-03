@@ -80,8 +80,6 @@ Below are screenshots of the application's user interface and a sample of the ge
 ![alt text](<Screenshots/Form UI.png>)
 ![alt text](<Screenshots/Export PDF.png>)
 
-![Application UI Screenshot]
-
 **Generated Report:**
 ![![Report Screenshot]](<Screenshots/PDF Report.png>)
 ![alt text](<Screenshots/XtraReport Preview.png>)

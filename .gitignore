@@ -1,0 +1,18 @@
+﻿# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+
+# Local files
+logs/
+
+# Ignore the local configuration file with sensitive data
+App.config
